@@ -1,8 +1,5 @@
-- 👋 Hi, I’m BobSty
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> BobSty#0815 on Discord
+Welcome to my GitHub account, you mostlikely cant see a single reposetory because all of my repos are private :/
+If you have any questions you can always reach my over Discord: BobSty#0815
 
 <!---
 BobSty-0/BobSty-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
