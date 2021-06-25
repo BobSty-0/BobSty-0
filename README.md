@@ -1,4 +1,4 @@
-Welcome to my GitHub account, you mostlikely cant see a single Reposetory because all of my Repos are private :/
+Welcome to my GitHub account, you mostlikely cant see a single Repository because all of my Repos are private :/
 If you have any questions you can always reach my over Discord: BobSty#0815
 
 <!---
